@@ -25,4 +25,4 @@ Triggers an event based on a condition, e.g., every hour, take a snapshot of the
 
 ## Relationship Between Components - Cloudwatch Logs
 
-# CloudTrail
+# Chapter 2: Basic Commands And Directory Hierarchy
