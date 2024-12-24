@@ -1,4 +1,4 @@
-# CloudWatch
+# Chapter 1: The Big Picture
 ## Core Components
   <details> 
     <summary>What is Amazon CloudWatch?
