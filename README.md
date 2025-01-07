@@ -1,5 +1,5 @@
 # Chapter 1: The Big Picture
-## Core Components
+## 1.1: Levels and Layers of Abstraction in a Linux System
   <details> 
     <summary>What is Amazon CloudWatch?
 </summary>
@@ -23,6 +23,6 @@
 Triggers an event based on a condition, e.g., every hour, take a snapshot of the server. Now known as Amazon EventBridge.   <br>
 </details>
 
-## Relationship Between Components - Cloudwatch Logs
+## 1.2: Hardware: Understanding Main Memory
 
 # Chapter 2: Basic Commands And Directory Hierarchy
