@@ -5,7 +5,7 @@
 </summary>
       A Linux system has three main levels. Hardware, Kernel and User Processes.
         </details>
-<details>
+
  
 
 ## 1.2: Hardware: Understanding Main Memory
