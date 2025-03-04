@@ -12,6 +12,7 @@
 </summary>
       A CPU is an operator on memory, it reads data from the memory and writes data back out to the memory.
     </details>
+    
 ## 1.3: The kernel
 
 
