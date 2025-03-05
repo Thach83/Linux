@@ -50,8 +50,11 @@
   Output the contents of one or more files or another source of input.
 </details>
 
-### 2.2.3: Standard Input and Standard Output
-
+### 2.2.3: Standard Input and Standard Output (stdin and stdout)
+<details>
+  <summary>(stdin and stdout)</summary>
+  Unix processes use I/O streams to read and write data.Processes read data from input streams and write data to output streams.
+</details>
 
 
 
