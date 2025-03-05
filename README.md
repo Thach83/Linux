@@ -43,8 +43,10 @@
   Dấu nhắc lệnh (prompt) thường kết thúc bằng `$`. Nếu bạn thấy `#` thay vì `$`, có nghĩa là bạn đang chạy terminal với quyền root.
 </details>
 
-<details>
-### 2.2.2: <summary>Cat</summary>
+
+### 2.2.2: cat
+  <details>
+  <summary>Cat</summary>
   Output the contents of one or more files or another source of input.
 </details>
 
