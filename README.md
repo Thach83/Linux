@@ -28,3 +28,9 @@
 
 
 # Chapter 2: Basic Commands And Directory Hierarchy
+## 2.1: The Bourne Shell: /bin/sh
+<details> 
+    <summary>What is the Shell?
+</summary>
+      The shell is one of the most important parts of the Unix/Linux system. It is a program used to run commands that the user enters into the terminal.
+    </details>
