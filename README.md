@@ -38,9 +38,11 @@
 
 ### 2.2.1: The Shell Window
 <details>
-///A shell window as a terminal.
-///Dấu nhắc lệnh (prompt) thường kết thúc bằng $. Nếu bạn thấy # thay vì $, có nghĩa là bạn đang chạy terminal với quyền root.
+  <summary>A shell window as a terminal.</summary>
+
+  Dấu nhắc lệnh (prompt) thường kết thúc bằng `$`. Nếu bạn thấy `#` thay vì `$`, có nghĩa là bạn đang chạy terminal với quyền root.
 </details>
+
 
 ### 2.2.2: Cat
 
