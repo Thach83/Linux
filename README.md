@@ -14,10 +14,17 @@
     </details>
     
 ## 1.3: The kernel
+<details> 
+    <summary>What is the Kernel?
+</summary>
+      The kernel is software residing in memory, acting as a mediator, manages the hardware and is the primary interface between hardware and any running program.
+    </details>
+
+## 1.4: User Space
 
 
+## 1.5: Users
 
-## 1.2: Hardware: Understanding Main Memory
-## 1.2: Hardware: Understanding Main Memory
+
 
 # Chapter 2: Basic Commands And Directory Hierarchy
