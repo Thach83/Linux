@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary>### 2.2.2: Cat</summary>
+### 2.2.2: <summary>Cat</summary>
   Output the contents of one or more files or another source of input.
 </details>
 
