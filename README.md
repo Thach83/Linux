@@ -26,7 +26,6 @@
 ## 1.5: Users
 
 
-
 # Chapter 2: Basic Commands And Directory Hierarchy
 ## 2.1: The Bourne Shell: /bin/sh
 <details> 
@@ -34,3 +33,36 @@
 </summary>
       The shell is one of the most important parts of the Unix/Linux system. It is a program used to run commands that the user enters into the terminal.
     </details>
+    
+## 2.2: Using The Shell
+### 2.2.1: The Shell Window
+A shell window as a terminal.
+Dấu nhắc lệnh (prompt) thường kết thúc bằng $. Nếu bạn thấy # thay vì $, có nghĩa là bạn đang chạy terminal với quyền root.
+### 2.2.2: Cat
+
+
+### 2.2.3: Standard Input and Standard Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
