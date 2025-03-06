@@ -56,9 +56,23 @@
   Unix processes use I/O streams to read and write data.Processes read data from input streams and write data to output streams.
 </details>
 
+## 2.3: Basic Commands
+### 2.3.1: ls
 
 
+### 2.3.2: cp
 
+
+### 2.3.3: mv
+
+
+### 2.3.4: touch
+
+
+### 2.3.5: rm
+
+
+### 2.3.6: echo
 
 
 
