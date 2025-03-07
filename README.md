@@ -96,12 +96,12 @@ The echo command prints its arguments to the standard output.
 </details>
 
 <details>
-  <summary>What is cd command?</summary>
+  <summary>cd</summary>
   Changes the current working directory.
 </details>
 
 <details>
-  <summary>What is a mkdir or rmdir command?</summary>
+  <summary>mkdir or rmdir</summary>
  The mkdir command creates a new directory. The rmdir command removes the directory.  $rm -r dir (to delete a directory and its contents).
 </details>
 
@@ -113,23 +113,49 @@ The echo command prints its arguments to the standard output.
 
 ## 2.5: Intermediate Commands
 <details>
-  <summary>What is a grep?</summary>
+  <summary>grep?</summary>
  The grep command prints the lines from a file or input stream that match an expression. For example, to print the lines in the /etc/passwd file that contain the text root, enter this:
  $ grep root /etc/passwd
 </details>
 
-
 <details>
   <summary>There are three important things about regular expressions:</summary>
-
-  •  `.*` Matches any number of characters, including none (like the `*` in globs and wildcards).  
-
-  •  `.+` Matches any one or more characters.  
-
-  •  `.`  Matches exactly one arbitrary character.  
-
+•  `.*` Matches any number of characters, including none (like the `*` in globs and wildcards).  
+•  `.+` Matches any one or more characters.  
+•  `.`  Matches exactly one arbitrary character.  
 </details>
 
+<details>
+  <summary>less</summary>
+ see the contents of the file one screenful at a time.
+</details>
+
+<details>
+  <summary>pwd</summary>
+print working directory.
+</details>
+
+<details>
+  <summary>file</summary>
+ Determine the format of a file.
+</details>
+
+<details>
+  <summary>find and locate</summary>
+ search file 
+</details>
+
+<details>
+  <summary>head and tail</summary>
+  The head and tail commands quickly view a portion of a file or stream of data. <br>
+  head /etc/passwd shows the first 10 lines of the password file<br>
+  tail /etc/passwd shows the last 10 lines
+</details>
+
+<details>
+  <summary>sort</summary>
+The sort command in Linux is used to sort the contents of a file or input data in ascending or descending order.
+</details>
 
 
 ## 2.6: Changing Your Password and Shell
