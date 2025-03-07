@@ -36,21 +36,17 @@
     
 ## 2.2: Using The Shell
 
-### 2.2.1: The Shell Window
 <details>
   <summary>A shell window as a terminal.</summary>
 
   Dấu nhắc lệnh (prompt) thường kết thúc bằng `$`. Nếu bạn thấy `#` thay vì `$`, có nghĩa là bạn đang chạy terminal với quyền root.
 </details>
 
-
-### 2.2.2: cat
   <details>
   <summary>Cat</summary>
   Output the contents of one or more files or another source of input.
 </details>
 
-### 2.2.3: Standard Input and Standard Output (stdin and stdout)
 <details>
   <summary>(stdin and stdout)</summary>
   Unix processes use I/O streams to read and write data.Processes read data from input streams and write data to output streams.
