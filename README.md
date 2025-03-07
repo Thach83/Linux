@@ -86,32 +86,38 @@ The echo command prints its arguments to the standard output.
 
 ## 2.4: Navigating Directories
 <details>
-  <summary>what is a absolute path?</summary>
+  <summary>What is a absolute path?</summary>
  A path starts with /.
 </details>
 
 <details>
-  <summary>what is a relative path?</summary>
+  <summary>What is a relative path?</summary>
  A path starts with not /.
 </details>
 
 <details>
-  <summary>what is cd command?</summary>
+  <summary>What is cd command?</summary>
   Changes the current working directory.
 </details>
 
 <details>
-  <summary>what is a mkdir or rmdir command?</summary>
+  <summary>What is a mkdir or rmdir command?</summary>
  The mkdir command creates a new directory. The rmdir command removes the directory.  $rm -r dir (to delete a directory and its contents).
 </details>
 
 <details>
-  <summary>what is a Shell Globbing (“Wildcards”)?</summary>
+  <summary>What is a Shell Globbing? (“Wildcards”)?</summary>
  Shell Globbing (also known as Wildcards) is a technique in Linux that allows the use of special characters (wildcards) to search, filter, or manipulate multiple files and directories simultaneously. $ls *.txt (List all .txt files in current directory).
 </details>
 
-
 ## 2.5: Intermediate Commands
+<details>
+  <summary>What is a grep? (“Wildcards”)?</summary>
+ The grep command prints the lines from a file or input stream that match an expression. For example, to print the lines in the /etc/passwd file that contain the text root, enter this:
+ $ grep root /etc/passwd
+</details>
+
+
 ## 2.6: Changing Your Password and Shell
 ## 2.7: Dot Files
 ## 2.8: Environment and Shell Variables
