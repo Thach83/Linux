@@ -162,6 +162,7 @@ The sort command in Linux is used to sort the contents of a file or input data i
 <details>
   <summary>passwd</summary>
  Use the passwd command to change your password. </details>
+ 
 ## 2.7: Dot Files
 ## 2.8: Environment and Shell Variables
 ## 2.9: The Command Path
