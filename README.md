@@ -105,6 +105,10 @@ The echo command prints its arguments to the standard output.
  The mkdir command creates a new directory. The rmdir command removes the directory.  $rm -r dir (to delete a directory and its contents).
 </details>
 
+<details>
+  <summary>what is a Shell Globbing (“Wildcards”)?</summary>
+ Shell Globbing (also known as Wildcards) is a technique in Linux that allows the use of special characters (wildcards) to search, filter, or manipulate multiple files and directories simultaneously. $ls *.txt (List all .txt files in current directory).
+</details>
 
 
 ## 2.5: Intermediate Commands
