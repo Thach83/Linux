@@ -84,11 +84,23 @@ The echo command prints its arguments to the standard output.
 </details>
 
 
-## 2.3: Basic Commands
-
-
-
-
+## 2.4: Navigating Directories
+## 2.5: Intermediate Commands
+## 2.6: Changing Your Password and Shell
+## 2.7: Dot Files
+## 2.8: Environment and Shell Variables
+## 2.9: The Command Path
+## 2.10: Special Characters
+## 2.11: Command-Line Editing
+## 2.12: Text Editors
+## 2.13: Getting Online Help
+## 2.14: Shell Input and Output
+## 2.15: Understanding Error Messages
+## 2.16: Listing and Manipulating Processes
+## 2.17: File Modes and Permissions
+## 2.18: Archiving and Compressing Files
+## 2.19: Linux Directory Hierarchy Essentials
+## 2.20: Running Commands as the Superuser
 
 
 
