@@ -112,11 +112,23 @@ The echo command prints its arguments to the standard output.
 
 ## 2.5: Intermediate Commands
 <details>
-  <summary>What is a grep? (“Wildcards”)?</summary>
+  <summary>What is a grep?</summary>
  The grep command prints the lines from a file or input stream that match an expression. For example, to print the lines in the /etc/passwd file that contain the text root, enter this:
  $ grep root /etc/passwd
 </details>
 
+<details>
+  <summary>There are three important things regular expressions:</summary>
+ •	.* matches any number of characters, including none (like the * in globs and wildcards).
+ •	.+ matches any one or more characters.
+ •	. matches exactly one arbitrary character
+</details>
+
+<details>
+  <summary>What is a grep?</summary>
+ The grep command prints the lines from a file or input stream that match an expression. For example, to print the lines in the /etc/passwd file that contain the text root, enter this:
+ $ grep root /etc/passwd
+</details>
 
 ## 2.6: Changing Your Password and Shell
 ## 2.7: Dot Files
