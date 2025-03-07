@@ -130,6 +130,22 @@ The echo command prints its arguments to the standard output.
  $ grep root /etc/passwd
 </details>
 
+<details>
+  <summary>There are three important things about regular expressions:</summary>
+
+  •  `.*`  
+     Matches any number of characters, including none (like the `*` in globs and wildcards).  
+
+  •  `.+`  
+     Matches any one or more characters.  
+
+  •  `.`  
+     Matches exactly one arbitrary character.  
+
+</details>
+
+
+
 ## 2.6: Changing Your Password and Shell
 ## 2.7: Dot Files
 ## 2.8: Environment and Shell Variables
