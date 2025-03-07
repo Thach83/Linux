@@ -107,7 +107,8 @@ The echo command prints its arguments to the standard output.
 
 <details>
   <summary>What is a Shell Globbing? (“Wildcards”)?</summary>
- Shell Globbing (also known as Wildcards) is a technique in Linux that allows the use of special characters (wildcards) to search, filter, or manipulate multiple files and directories simultaneously. $ls *.txt (List all .txt files in current directory).
+ Shell Globbing (also known as Wildcards) is a technique in Linux that allows the use of special characters (wildcards) to search, filter, or manipulate multiple files and directories simultaneously.<br>
+  $ls *.txt (List all .txt files in current directory).
 </details>
 
 ## 2.5: Intermediate Commands
@@ -117,18 +118,6 @@ The echo command prints its arguments to the standard output.
  $ grep root /etc/passwd
 </details>
 
-<details>
-  <summary>There are three important things regular expressions:</summary>
- •	.* matches any number of characters, including none (like the * in globs and wildcards).
- •	.+ matches any one or more characters.
- •	. matches exactly one arbitrary character
-</details>
-
-<details>
-  <summary>What is a grep?</summary>
- The grep command prints the lines from a file or input stream that match an expression. For example, to print the lines in the /etc/passwd file that contain the text root, enter this:
- $ grep root /etc/passwd
-</details>
 
 <details>
   <summary>There are three important things about regular expressions:</summary>
