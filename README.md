@@ -57,37 +57,31 @@
 </details>
 
 ## 2.3: Basic Commands
-### 2.3.1: ls
 <details>
   <summary>ls</summary>
 The ls command lists the contents of a directory.
 </details>
 
-### 2.3.2: cp
 <details>
   <summary>cp</summary>
 cp copies files.  $cp file1 file2 (copy file1 to file2).
 </details>
 
-### 2.3.3: mv
 <details>
   <summary>mv</summary>
  use mv to move files to other directories or renames a file($ mv file1 file2). 
 </details>
 
-### 2.3.4: touch
 <details>
   <summary>touch</summary>
 The touch command create a file.
 </details>
 
-### 2.3.5: rm
 <details>
   <summary>rm</summary>
 deletes (removes) a file.
 </details>
 
-### 2.3.6: echo
 <details>
   <summary>echo</summary>
 The echo command prints its arguments to the standard output.
