@@ -133,14 +133,11 @@ The echo command prints its arguments to the standard output.
 <details>
   <summary>There are three important things about regular expressions:</summary>
 
-  •  `.*`  
-     Matches any number of characters, including none (like the `*` in globs and wildcards).  
+  •  `.*` Matches any number of characters, including none (like the `*` in globs and wildcards).  
 
-  •  `.+`  
-     Matches any one or more characters.  
+  •  `.+` Matches any one or more characters.  
 
-  •  `.`  
-     Matches exactly one arbitrary character.  
+  •  `.`  Matches exactly one arbitrary character.  
 
 </details>
 
